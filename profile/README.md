@@ -1,9 +1,9 @@
 # LuckyStake.xyz
 
-### luckyBot
+### [luckyBot](https://github.com/luckystake-xyz/luckyBot)
 
 Automated lucky staker draw.
 
-### transferBot 
+### [transferBot](https://github.com/luckystake-xyz/transferBot)
 
 Automated rewards transfer.
