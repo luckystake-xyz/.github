@@ -8,6 +8,6 @@ Automated lucky staker draw.
 
 Automated rewards transfer.
 
-### [transferBot](https://github.com/luckystake-xyz/luckyComposability)
+### [luckyComposability](https://github.com/luckystake-xyz/luckyComposability)
 
 A collection of utilities used by LuckyStake to provide a great user experience through composability with other protocols.
